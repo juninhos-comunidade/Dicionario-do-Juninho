@@ -1,1 +1,1 @@
-# Dicion-rio-do-Juninho
+# Dicionario-do-Juninho
