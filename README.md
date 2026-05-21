@@ -110,7 +110,7 @@ Um projeto completo só ganha vida com uma equipe sintonizada. Conheça as mente
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Vinícius Gomes dos Santos** | Pendente | ... |
 | <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Pedro Vitor Moreira Dantas** | Pendente | ... |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Victor Kawê Santos Silva** | Pendente | ... |
+| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Victor Kawê Santos Silva** | Full-Stack Developer | [Github](https://github.com/KaweVK/) |
 | <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Matheus Moreira Marcelino** | Pendente | ... |
 
 ---
